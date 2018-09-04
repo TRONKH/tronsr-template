@@ -1,8 +1,7 @@
-- Mr. Jerry Thach  - Founder
-- Mr. Philip Chhim, MDM, PhD Candidate. 
-   * Co-Founder and Chief Operative Officer
-   * Mr. Philip Chhim is a Chairman of Dream Farm Co. Ltd and a General Manager of AKYOH PLC. He has more than 10 years experience on strategic planning organization and management in business development for economic community development with various international organizations; and he has also been serving as a assistant to CEO of Poweron Group, supporting the international business collaboration and investment and as Vice President at Khmer Foundation Investment Group (KFIG). He is also a co-founder and director of Cambodia Blockchain Association of ASEAN, contributing to decentralized business development, digital asset and Investment on Blockchain entrepreneurship and business evolution. Mr. Philip Chhim has graduated with Master of Development Management, and enrolling for Master of Small and Medium Enterprises and Project ; and further enhancement for his PhD Study and Research on Economic Community Development at Royal Academy of Cambodia.
+លោកជែរី ថាច់៖ ស្ថាបនិក / នាយកបច្ចេកវិទ្យាត្រុន
 
-- Mr. Solomon Hun 
+តាមរយៈនិស័្សយនិងការស្រលាញ់លើបច្ចេកវិទ្យាឌីជីថលជាង១០ឆ្នាំមកនេះ លោកជែរីបានចំណាយពេលវេលាសិក្សា និងបង្កើតសហគមផ្សព្វផ្សាយជាមួយបណ្តាញឌីជីថល តាមរយៈវែបសាយ និងបណ្តាញសង្គម ក្នុងការរួមចំណែកផ្តល់ពត៌មាននិងចំណេះអំពីបច្ចេកវិទ្យា ប្លុគឈេន និងគ្រីពតូ ដល់សហគម ឌីជីថលកម្ពុជា បែបឯករាជ្យនិងវិមជ្ឍការ។ លោកបានចូលរួមចំណែកតាមរយៈការគេហ័ទំព័រBTCKHMER.COM និង បណ្តាញសង្គមមុនដំបូងគេ ដោយបានផ្សារភ្ចាប់នូវទំនាក់ទំនងពត៌មាន ចំណេះដឹង អំពីបច្ចេកវិទ្យាប្លុគឈេនដល់សហគម ដោយមិនគិតពីប្រាក់កំរៃ។ ជាចុងក្រោយលោកក៏ត្រូវបានសហគមត្រុនអន្តរជាតិ បោះឆ្នោតឲ្យឈរជាតំណាងរបស់សហគមត្រុនសកលក្នុងការចែករំលែកអំពីពត៌មានត្រុនប្រចាំ នូវព្រះរាជាណាចក្រកម្ពុជា។
 
-- Mr. Noa Sokhom 
+លោក ហ្វីលីព ឈឹម៖ សហស្ថាបនិក / នាយកប្រតិបត្តិ
+
+លោក ហ្វីលីព ឈឹម ធ្លាប់បំរើការជាអគ្គនាយកនិងនិពន្ធនាយករបស់វែបសាយ BTCKHMER.COM ក្នុងការសិក្សាស្រាវជ្រាវនិងបណ្តុះបណ្តាលអំពីបច្ចេកវិទ្យាប្លុគឈេន និង គ្រីពតូ ដល់សហគមកម្ពុជា។ ជាមួយនឹងបទពិសោធជាង១០ ក្នុងការបំរើនិងពង្រីកចំណេះដឹងពីការអភិវឌ្ឍនិងគ្រប់គ្រងគំរោងសេដ្ឋកិច្ចសហគម តាមរយៈការបណ្តុបណ្តាលជំនាញ និងចំណេះដឹង លោក ហ្វីលីព ឈឹម បានចំណាយពេលវេលានឹងកំលាំងកាយចិត្តក្នុងការលើកកំពស់សហគមត្រុនកកម្ពុជា ដោយផ្តោតលើចក្ខុវិស័យនិងចំណេះអំពីបច្ចេកវិទ្យាប្លុគឈេនរបស់ត្រុន។ លោក ហ្វីលីព ឈឹម មានជំនឿថាគំរោងត្រុននឹងនាំមកនូវចំណេះដឹង ឱកាសវិនិយោគ អាជីវកម្មបែបឌីជីផល និងភាពជោគជ័យយ៉ាងធំដល់សហគមត្រុនទាំងនៅកម្ពុជានិងសកលលោកនាពេលអនាគតដ៏ខ្លីជាក់ជាមិនខាន៕
